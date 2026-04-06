@@ -1,0 +1,1 @@
+savedcmd_/home/aaditya/Documents/coding/Embedded_Proj/uart_module/uart_bitbang.mod := printf '%s\n'   uart_bitbang.o | awk '!x[$$0]++ { print("/home/aaditya/Documents/coding/Embedded_Proj/uart_module/"$$0) }' > /home/aaditya/Documents/coding/Embedded_Proj/uart_module/uart_bitbang.mod
