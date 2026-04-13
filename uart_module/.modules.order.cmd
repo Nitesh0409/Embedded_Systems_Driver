@@ -1,1 +1,1 @@
-savedcmd_/home/aaditya/Documents/coding/Embedded_Proj/uart_module/modules.order := {   echo /home/aaditya/Documents/coding/Embedded_Proj/uart_module/uart_bitbang.o; :; } > /home/aaditya/Documents/coding/Embedded_Proj/uart_module/modules.order
+savedcmd_/home/aaditya/Documents/coding/Embedded_Proj/uart_module/modules.order := {   echo /home/aaditya/Documents/coding/Embedded_Proj/uart_module/software_uart.o; :; } > /home/aaditya/Documents/coding/Embedded_Proj/uart_module/modules.order

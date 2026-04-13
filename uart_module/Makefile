@@ -1,4 +1,4 @@
-obj-m += uart_bitbang.o
+obj-m += software_uart.o
 
 KDIR ?= ../linux-imx
 
