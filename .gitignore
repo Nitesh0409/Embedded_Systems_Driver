@@ -1,0 +1,5 @@
+*.o
+*.cmd
+Module.symvers
+modules.order
+*.log

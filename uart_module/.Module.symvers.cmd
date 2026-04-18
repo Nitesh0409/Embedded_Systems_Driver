@@ -1,1 +1,0 @@
-savedcmd_/home/aaditya/Documents/coding/Embedded_Proj/uart_module/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/aaditya/Documents/coding/Embedded_Proj/uart_module/Module.symvers -n -T /home/aaditya/Documents/coding/Embedded_Proj/uart_module/modules.order -i Module.symvers -e 

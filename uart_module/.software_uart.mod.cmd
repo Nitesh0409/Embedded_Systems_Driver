@@ -1,1 +1,0 @@
-savedcmd_/home/aaditya/Documents/coding/Embedded_Proj/uart_module/software_uart.mod := printf '%s\n'   software_uart.o | awk '!x[$$0]++ { print("/home/aaditya/Documents/coding/Embedded_Proj/uart_module/"$$0) }' > /home/aaditya/Documents/coding/Embedded_Proj/uart_module/software_uart.mod
